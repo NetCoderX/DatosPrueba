@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "Juan Pérez", "licencia": 1 },
+  { "id": 2, "nombre": "María López", "licencia": 2 },
+  { "id": 3, "nombre": "Carlos Gómez", "licencia": 3 },
+  { "id": 4, "nombre": "Ana Fernández", "licencia": 1 },
+  { "id": 5, "nombre": "Luis Martínez", "licencia": 2 },
+  { "id": 6, "nombre": "Sofía Ramírez", "licencia": 3 },
+  { "id": 7, "nombre": "Pedro Torres", "licencia": 1 },
+  { "id": 8, "nombre": "Laura Gutiérrez", "licencia": 2 },
+  { "id": 9, "nombre": "Diego Morales", "licencia": 3 },
+  { "id": 10, "nombre": "Camila Díaz", "licencia": 1 }
+]
