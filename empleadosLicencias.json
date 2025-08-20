@@ -7,7 +7,7 @@
   { "nombre": "Sofía", "apellido": "Ramírez", "tipoLicencia": "Vacaciones", "codigoLicencia": 1, "estado": 2, "fechaDesde": "2025-09-18", "fechaHasta": "2025-09-25" },
   { "nombre": "Pedro", "apellido": "Torres", "tipoLicencia": "Otra", "codigoLicencia": 3, "estado": 1, "fechaDesde": "2025-09-22", "fechaHasta": "2025-09-26" },
   { "nombre": "Laura", "apellido": "Gutiérrez", "tipoLicencia": "Vacaciones", "codigoLicencia": 1, "estado": 1, "fechaDesde": "2025-09-25", "fechaHasta": "2025-10-02" },
-  { "nombre": "Diego", "apellido": "Morales", "tipoLicencia": "Médica", "codigoLicencia": 2, "estado": 3, "fechaDesde": "2025-09-28", "fechaHasta": "2025-10-01" },
+  { "nombre": "Diego", "apellido": "Morales", "tipoLicencia": "Médica", "codigoLicencia": 2, "estado": 3, "fechaDesde": "2025-09-28", "fechaHasta": "2025-10-10" },
   { "nombre": "Camila", "apellido": "Díaz", "tipoLicencia": "Vacaciones", "codigoLicencia": 1, "estado": 1, "fechaDesde": "2025-10-01", "fechaHasta": "2025-10-07" },
   { "nombre": "Martín", "apellido": "Vega", "tipoLicencia": "Otra", "codigoLicencia": 3, "estado": 2, "fechaDesde": "2025-10-03", "fechaHasta": "2025-10-05" },
   { "nombre": "Lucía", "apellido": "Castro", "tipoLicencia": "Vacaciones", "codigoLicencia": 1, "estado": 1, "fechaDesde": "2025-10-06", "fechaHasta": "2025-10-13" },
