@@ -1,0 +1,23 @@
+[
+  { "IdSolicitud":1, "nombre": "Juan", "apellido": "Pérez", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-09-02", "fechaHasta": "2025-09-10" },
+  { "IdSolicitud":2, "nombre": "María", "apellido": "López", "tipoLicencia": "Médica", "estado": "Pendiente", "fechaDesde": "2025-09-05", "fechaHasta": "2025-09-08" },
+  { "IdSolicitud":3, "nombre": "Carlos", "apellido": "Gómez", "tipoLicencia": "Examen", "estado": "Rechazada", "fechaDesde": "2025-09-07", "fechaHasta": "2025-09-09" },
+  { "IdSolicitud":4, "nombre": "Ana", "apellido": "Fernández", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-09-12", "fechaHasta": "2025-09-20" },
+  { "IdSolicitud":5, "nombre": "Luis", "apellido": "Martínez", "tipoLicencia": "Médica", "estado": "Autorizada", "fechaDesde": "2025-09-14", "fechaHasta": "2025-09-17" },
+  { "IdSolicitud":6, "nombre": "Sofía", "apellido": "Ramírez", "tipoLicencia": "Vacaciones", "estado": "Pendiente", "fechaDesde": "2025-09-18", "fechaHasta": "2025-09-25" },
+  { "IdSolicitud":7, "nombre": "Pedro", "apellido": "Torres", "tipoLicencia": "Examen", "estado": "Autorizada", "fechaDesde": "2025-09-22", "fechaHasta": "2025-09-26" },
+  { "IdSolicitud":8, "nombre": "Laura", "apellido": "Gutiérrez", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-09-25", "fechaHasta": "2025-10-02" },
+  { "IdSolicitud":9, "nombre": "Diego", "apellido": "Morales", "tipoLicencia": "Médica", "estado":"Rechazada", "fechaDesde": "2025-09-28", "fechaHasta": "2025-10-10" },
+  { "IdSolicitud":10, "nombre": "Camila", "apellido": "Díaz", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-10-01", "fechaHasta": "2025-10-07" },
+  { "IdSolicitud":11, "nombre": "Martín", "apellido": "Vega", "tipoLicencia": "Examen", "estado": "Pendiente", "fechaDesde": "2025-10-03", "fechaHasta": "2025-10-05" },
+  { "IdSolicitud":12, "nombre": "Lucía", "apellido": "Castro", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-10-06", "fechaHasta": "2025-10-13" },
+  { "IdSolicitud":13, "nombre": "Andrés", "apellido": "Sosa", "tipoLicencia": "Médica", "estado": "Autorizada", "fechaDesde": "2025-10-08", "fechaHasta": "2025-10-11" },
+  { "IdSolicitud":14, "nombre": "Paula", "apellido": "Méndez", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-10-10", "fechaHasta": "2025-10-16" },
+  { "IdSolicitud":15, "nombre": "Hernán", "apellido": "Ríos", "tipoLicencia": "Examen", "estado": "Pendiente", "fechaDesde": "2025-10-12", "fechaHasta": "2025-10-15" },
+  { "IdSolicitud":17, "nombre": "Gabriel", "apellido": "Cabrera", "tipoLicencia": "Médica", "estado": "Autorizada", "fechaDesde": "2025-10-17", "fechaHasta": "2025-10-20" },
+  { "IdSolicitud":18, "nombre": "Florencia", "apellido": "Silva", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-10-18", "fechaHasta": "2025-10-25" },
+  { "IdSolicitud":19, "nombre": "Javier", "apellido": "Ibarra", "tipoLicencia": "Examen", "estado": "Rechazada", "fechaDesde": "2025-10-20", "fechaHasta": "2025-10-23" },
+  { "IdSolicitud":20, "nombre": "Micaela", "apellido": "Romero", "tipoLicencia": "Vacaciones", "estado":"Autorizada", "fechaDesde": "2025-10-22", "fechaHasta": "2025-10-29" },
+  { "IdSolicitud":21, "nombre": "Rodrigo", "apellido": "Navarro", "tipoLicencia": "Médica", "estado": "Pendiente", "fechaDesde": "2025-10-24", "fechaHasta": "2025-10-27" },
+  { "IdSolicitud":22, "nombre": "Natalia", "apellido": "Suárez", "tipoLicencia": "Vacaciones", "estado": "Autorizada", "fechaDesde": "2025-10-26", "fechaHasta": "2025-10-31" }
+]
