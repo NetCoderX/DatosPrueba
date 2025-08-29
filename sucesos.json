@@ -1,0 +1,37 @@
+[
+  {
+    "IdSuceso": 5126,
+    "CodSuceso": "GOZ",
+    "Descripcion": "Licencia vacaciones Goza"
+  },
+  {
+    "IdSuceso": 2106,
+    "CodSuceso": "LPF",
+    "Descripcion": "Licencia por enfermedad"
+  },
+  {
+    "IdSuceso": 2107,
+    "CodSuceso": "LPE",
+    "Descripcion": "Licencia por exámen"
+  },
+  {
+    "IdSuceso": 503,
+    "CodSuceso": "LVA",
+    "Descripcion": "Licencia por vacaciones"
+  },
+  {
+    "IdSuceso": 2252,
+    "CodSuceso": "LxM",
+    "Descripcion": "Licencia por mudanza"
+  },
+  {
+    "IdSuceso": 2253,
+    "CodSuceso": "LDS",
+    "Descripcion": "Licencia por don.sangre"
+  },
+  {
+    "IdSuceso": 2254,
+    "CodSuceso": "LCA",
+    "Descripcion": "Licencia por casamiento"
+  }
+]
